@@ -40,3 +40,5 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 .env.local
+public/episodes/*.mp3
+data/episodes.json
